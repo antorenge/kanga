@@ -1,0 +1,21 @@
+{
+	"name": "kanga",
+	"description": "Ghost theme with clean design.",
+	"homepage": "https://github.com/antorenge/kanga",
+	"version": "1.0.0",
+	"license": "MIT",
+	"author": {
+		"name": "Antony Orenge",
+		"url": "https://github.com/antorenge",
+		"email": "support@antonyorenge.com"
+	},
+	"keywords": [
+		"ghost",
+		"theme",
+		"kanga"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:antorenge/kanga.git"
+	}
+}
