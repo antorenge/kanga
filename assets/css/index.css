@@ -31,9 +31,10 @@
 	margin: 0;
 }
 .site-description {
-	color: #fff;
+	color: #bdc3c7;
 	font-weight: 400;
 	font-size: 24px;
+	text-shadow: 0 0 5px #fff;
 }
 .blog-page {color:rgb(76,76,76);font-size:24px;margin-bottom:40px}
 .page-header {margin-bottom:10px}
